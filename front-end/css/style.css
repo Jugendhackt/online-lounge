@@ -1,0 +1,11 @@
+#Kleines-Bild {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
+#Kleines-Couch {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+}
